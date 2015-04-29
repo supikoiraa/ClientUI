@@ -1,0 +1,81 @@
+body{
+	font: 1em verdana;
+}
+
+html { 
+  background: url(http://bgfons.com/upload/clouds_texture2879.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+input{
+	font: 20px verdana;
+
+}
+
+p {
+	font: 20px verdana;
+}
+
+.bu{
+	color: white;
+	border-radius: 4px;
+	text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+	background: rgb(66, 184, 221);
+	font: 20px verdana;
+
+}
+
+h1 {
+    font-size: 40px;
+    font-family: "verdana";
+	width:100%;
+	max-width:600px;
+	text-align:center;
+	margin: 0 auto;
+}
+
+.container{
+	width:100%;
+	max-width:600px;
+	text-align:center;
+	margin: 0 auto;
+}
+.left
+{
+	width: 25%;
+	float:left;
+	text-align: left;
+	margin: 1px;
+    padding: 2px;
+	
+}
+
+label, input {
+    width: 160px;
+    float: left;
+    font: 20px bold verdana;
+    margin: 1px;
+    padding: 2px;
+}
+
+
+
+input {
+    width: 200px;
+    padding: 2px;
+    border: 1px solid #aaa;
+}
+#content{
+	width: 50%;
+
+  
+	float :left;
+ 
+ 	font: 20px bold verdana;
+    margin: 1px;
+    padding: 2px;
+
+}
